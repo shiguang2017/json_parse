@@ -1,0 +1,8 @@
+总json文件数量 = 4
+类别数 = {'bottle', 'handgun', 'grenade', 'tools', 'bullet group', 'knife'}
+the bottle has found 1
+the handgun has found 4
+the grenade has found 14
+the tools has found 1
+the bullet group has found 3
+the knife has found 4
